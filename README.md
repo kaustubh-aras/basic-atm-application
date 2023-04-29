@@ -23,7 +23,6 @@ Follow the steps below to run the program on your system:
 
 ```
 g++ atm.cpp -o atm
-
 ```
 Here, `atm.cpp` is the name of the program file, and `atm` is the name of the executable file.
 

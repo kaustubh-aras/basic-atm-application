@@ -45,7 +45,4 @@ When you run the program, you will see the following options:
 ```
 
 To use the program, select an option by entering the corresponding number and pressing enter. If you select option 1, your current balance will be displayed. If you select option 2, you will be prompted to enter the amount you want to deposit. If you select option 3, you will be prompted to enter the amount you want to withdraw. If you select option 4, the program will terminate.
-
-
-
-
+###
